@@ -1,0 +1,6 @@
+flask
+gunicorn
+flask-cors
+flask-restful
+psycopg2-binary
+python-dotenv
